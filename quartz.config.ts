@@ -20,7 +20,6 @@ const config: QuartzConfig = {
     baseUrl: "notes.tsukino.top",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
     theme: {
       fontOrigin: "local",
       cdnCaching: true,
